@@ -11,15 +11,15 @@ import ch.aplu.turtle.Turtle;
  *
  * @author Esteban
  */
-public class Tortuguiña {
+public class Tortuga_clase5 {
 private Turtle b;
 
-public Tortuguiña(){
+public Tortuga_clase5(){
     this.b = new Turtle ();
 }
 
  public static void main(String[] args) {
-     Tortuguiña e = new Tortuguiña ();
+     Tortuga_clase5 e = new Tortuga_clase5 ();
      e.cuadrado();
  }
  
